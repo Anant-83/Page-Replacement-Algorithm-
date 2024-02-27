@@ -277,6 +277,7 @@ public class page_rep implements ActionListener {
             {
                 if(hp.containsKey(ar[k]))
                 {
+                
                     hp.put(ar[k],hp.get(ar[k])+1);
                 }
                 else
